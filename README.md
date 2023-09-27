@@ -18,7 +18,7 @@ Este archivo contiene la clase `Home`, que representa la página de inicio de la
 
 ### 1. AppBar (Barra de Navegación Superior)
 
-La AppBar muestra el título "MovieApp-200931" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
+La AppBar muestra el título "MovieApp-200327" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
 
 ### 2. Menú Lateral (Drawer)
 
