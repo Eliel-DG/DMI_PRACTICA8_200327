@@ -8,6 +8,11 @@
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
+  ## Capturas de Pantalla
+<p align="center">
+  <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA8_200327/blob/main/pantalla1.png" width="200" alt="Captura de Pantalla 1">
+  </p>
+
 ## Descripción del Proyecto
 
 Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200327". La página de inicio contiene los siguientes componentes principales:
